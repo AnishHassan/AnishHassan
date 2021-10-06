@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnishHassan
 - Experienced in Ecommerce, Shopify, Digital Marketing.
 Skilled in Python (Programming Language), Java, JavaScript, C, C++.
-Front-end Development with frameworks like Angular and ReactJs.
+Front-end Development with frameworks like Angular and Javascript library like ReactJs.
 Social Media Marketer and Manager.
 
 Currently doing my Bachelor's degree focused in Computer Science from COMSATS University Islamabad.
