@@ -1,11 +1,18 @@
 - 👋 Hi, I’m @AnishHassan
-- Experienced in Ecommerce, Shopify, Digital Marketing.
-Skilled in Python (Programming Language), Java, JavaScript, C, C++.
-Front-end Development with frameworks like Angular and Javascript library like ReactJs.
-Social Media Marketer and Manager.
+A passionate Software Engineer experienced in:
+Ecommerce - Digital Marketing - Shopify Development.
+Web Development with ReactJS , Angular.
+Data Analysis - EDA , data visualization.
 
-Currently doing my Bachelor's degree focused in Computer Science from COMSATS University Islamabad.
-As a Data Science Enthusiast Making my way towards mastering the data science field.
+An inquisitive learner and believes in constant self-improvement to be more productive and competitive out there.
+
+Skilled in frontend web development, Comfortable with SQL queries, and basic database development concepts , data analysis , and logical programming.
+Knowledge of REST APIs. Experience and knowledge of Git and version control.
+Understanding of professional software engineering practices.
+
+Currently I am passionate about data and enjoy problem-solving and statistical analysis and want a career in data science and grow my skills in that field.
+
+JavaScript, TypeScript, Python , Java, C, C++
 
 Linkdin - https://www.linkedin.com/in/anishhassan/
 <!---
