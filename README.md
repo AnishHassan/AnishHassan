@@ -1,12 +1,9 @@
 - 👋 Hi, I’m @AnishHassan
-A passionate Software Engineer experienced in:
-Ecommerce - Digital Marketing - Shopify Development.
-Web Development with ReactJS , Angular.
-Data Analysis - EDA , data visualization.
-
+Hi, I’m @AnishHassan, a passionate Software Engineer with expertise in E-commerce, Digital Marketing, and Shopify Development.
+I specialize in Web Development with ReactJS/AngularJS, ThreeJS , GSAP ,tailwindcss and can adapt to any JS realted framework or library. I also am very enthusiast about AI/ML and data science field , i keep up with the trends and ongoing advancements and possibly will shift to it as my main career path.
 An inquisitive learner and believes in constant self-improvement to be more productive and competitive out there.
 
-Skilled in frontend web development, Comfortable with SQL queries, and basic database development concepts , data analysis , and logical programming.
+Skilled in full stack development, Comfortable with SQL queries, and database development concepts , data analysis , and logical programming.
 Knowledge of REST APIs. Experience and knowledge of Git and version control.
 Understanding of professional software engineering practices.
 
