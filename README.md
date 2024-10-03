@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnishHassan
-Hi, I’m @AnishHassan, a passionate Software Engineer with expertise in E-commerce, Digital Marketing, and Shopify Development.
+a passionate Software Engineer with expertise in E-commerce, Digital Marketing, and Shopify Development.
 I specialize in Web Development with ReactJS/AngularJS, ThreeJS , GSAP ,tailwindcss and can adapt to any JS realted framework or library. I also am very enthusiast about AI/ML and data science field , i keep up with the trends and ongoing advancements and possibly will shift to it as my main career path.
 An inquisitive learner and believes in constant self-improvement to be more productive and competitive out there.
 
