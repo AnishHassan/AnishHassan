@@ -1,11 +1,6 @@
 - 👋 Hi, I’m @AnishHassan
-a passionate Software Engineer with expertise in E-commerce, Digital Marketing, and Shopify Development.
-I specialize in Web Development with ReactJS/AngularJS, ThreeJS , GSAP ,tailwindcss and can adapt to any JS realted framework or library. I also am very enthusiast about AI/ML and data science field , i keep up with the trends and ongoing advancements and possibly will shift to it as my main career path.
+I am a versatile Full Stack Developer with expertise spanning web development, AI/ML solutions, and Shopify-powered e-commerce. My work focuses on delivering bespoke, high-performance solutions—whether developing responsive web applications, implementing AI-driven insights, or optimizing e-commerce platforms for maximum conversions. I bring creativity and precision to every project, ensuring a seamless user experience and exceptional results.
 An inquisitive learner and believes in constant self-improvement to be more productive and competitive out there.
-
-Skilled in full stack development, Comfortable with SQL queries, and database development concepts , data analysis , and logical programming.
-Knowledge of REST APIs. Experience and knowledge of Git and version control.
-Understanding of professional software engineering practices.
 
 Currently I am passionate about data and enjoy problem-solving and statistical analysis and want a career in data science and grow my skills in that field.
 
